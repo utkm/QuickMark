@@ -16,6 +16,10 @@
 
 **[Hack the North 2020++](https://devpost.com/software/quickmark-arjq6v?ref_content=user-portfolio&ref_feature=in_progress): Selected as Hack the North 2020++ overall finalist.**
 
+<p float="left">
+  <img src=public/QM-CLIP-0.gif width=1080>
+</p>
+
 ## Inspiration
 
 In general, teachers are having difficulty teaching online during COVID, especially when marking digital tests. This is a result of many file types in different places, no good way to record scores or comments for each individual question, and even harder to return the students’ test back to them with the feedback.
